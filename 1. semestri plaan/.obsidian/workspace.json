@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "9b695bba0109b703",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5c2cb3164d2bd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcbfea9dc47f7b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nädalapäevad/Esmaspäev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f61f5bd8e69c2488",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86308795cba48f09",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2fa75c53d969f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9ca47c15b999e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "f2b8692569482ea6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#projektid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "104c974e1e70db29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e24f6cc20d3ace9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41d18de0e3c9a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b60b9889491c01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d70ce72922aa4e46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4afe32a1bbbb5f13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "111bd01f4623e5d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f61f5bd8e69c2488",
+  "lastOpenFiles": [
+    "Aeg projektideks.md",
+    "Nädalapäevad/Esmaspäev.md",
+    "Nädala rutiin.md",
+    "Projektid/Sissejuhatus erialasse eksam.md",
+    "Projektid/Kõrgem matemaatika eksam.md",
+    "Projektid/Kõrgem matemaatika kontrolltöö 3.md",
+    "Projektid/Kõrgem matemaatika kontrolltöö 1.md",
+    "Projektid/Kõrgem matemaatika kontrolltöö 2.md",
+    "Projektid/OS eksam.md",
+    "Projektid/Programmeerimise eksam.md",
+    "Projektid/Programmeerimise kontrolltöö.md",
+    "Projektid/AAR Kohvripraktikum.md",
+    "Sess.md",
+    "_main.md",
+    "Nädalapäevad/Reede.md",
+    "Nädalapäevad/Nädalavahetus.md",
+    "Nädalapäevad/Neljapäev.md",
+    "Nädalapäevad/Kolmapäev.md",
+    "Nädalapäevad/Teisipäev.md",
+    "Jooksvad kontrolltööd-projektid.md",
+    "_templates/Projekt_template.md",
+    "_templates",
+    "Projektid",
+    "Nädalapäevad/Laupäev.md"
+  ]
+}
